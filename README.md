@@ -7,4 +7,4 @@ beware of the new night guard
 243645
 
 ## Sample decryption
-Worshippers **beware.** In the book **of** Revelations, praise **the** Lord. Each day is a **new** opportunity. Day or **night,** we must be on **guard** and watch our every move.
+Worshippers `beware.` In the book `of` Revelations, praise `the` Lord. Each day is a `new` opportunity. Day or `night,` we must be on `guard` and watch our every move.
